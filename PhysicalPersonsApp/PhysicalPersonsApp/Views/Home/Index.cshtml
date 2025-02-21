@@ -1,0 +1,82 @@
+﻿@model PhysicalPersonsApp.ViewModel.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+<div style="margin:5px;">
+    <form asp-action="AddPerson">
+        <button type="submit" class="btn btn-primary">Add Person</button>
+    </form>
+</div>
+
+<div>
+    <div class="form-group" style="margin:5px;">
+        <form asp-action="Paging" method="get">
+            <input name="criteria" placeholder="Search Person" />
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+</div>
+
+<div class="row">
+    @{
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Surname</th>
+                    <th>Private ID</th>
+                    <th>Action Buttons</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if (Model != null)
+                    {
+                        foreach (var list in Model.list)
+                        {
+                            <tr>
+                                <td class="justify-content-center">@list.Name</td>
+                                <td class="justify-content-center">@list.Surname</td>
+                                <td class="justify-content-center">@list.PrivateId</td>
+                                <td>
+                                    <div class="d-flex justify-content-center">
+                                        <form asp-action="DeletePerson" class="mr-2">
+                                            <input type="hidden" name="personId" value="@list.Id" />
+                                            <button type="submit" class="btn btn-danger" style="border-radius:5px; margin-right:5px;">Delete</button>
+                                        </form>
+      
+                                        <form asp-action="ViewDetailedInfo" method="get">
+                                            <input type="hidden" name="personId" value="@list.Id" />
+                                            <button type="submit" class="btn btn-primary" style="border-radius:5px;">View Details</button>
+                                        </form>
+                                    </div>
+
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="3" class="text-center text-danger">No Person Found</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    }
+    @{
+        <form asp-action="Paging" method="get">
+        @if (Model != null)
+            @for (int i = 1; i <= Model.PageAmount; i++)
+            {
+                <button type="submit" class="btn btn-primary mx-1" name="page" value="@i">@i</button>
+            }
+        </form>
+    }
+</div>
+

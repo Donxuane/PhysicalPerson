@@ -1,0 +1,56 @@
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\Shared Layer.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\Shared Layer.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\appsettings.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\appsettings.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\Shared Layer.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\Shared Layer.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\appsettings.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\Shared Layer.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\bin\Debug\net8.0\Shared Layer.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\DAL\obj\Debug\net8.0\ref\DAL.dll

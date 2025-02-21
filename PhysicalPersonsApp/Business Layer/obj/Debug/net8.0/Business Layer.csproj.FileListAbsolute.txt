@@ -1,0 +1,56 @@
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.deps.json
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Shared Layer.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Shared Layer.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.AssemblyInfo.cs
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.sourcelink.json
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business.38778CEF.Up2Date
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\refint\Business Layer.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.pdb
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\ref\Business Layer.dll
+C:\Users\vaxtangi\Desktop\OL!\Assignments\Week14-15\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\appsettings.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\appsettings.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.deps.json
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Shared Layer.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Shared Layer.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.AssemblyInfo.cs
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business.38778CEF.Up2Date
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\refint\Business Layer.dll
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.pdb
+C:\Users\vaxtangi\Desktop\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\ref\Business Layer.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\appsettings.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.deps.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Business Layer.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\DAL.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Shared Layer.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\DAL.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\bin\Debug\net8.0\Shared Layer.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.AssemblyInfo.cs
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.sourcelink.json
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business.38778CEF.Up2Date
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\refint\Business Layer.dll
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\Business Layer.pdb
+C:\Users\vaxtangi\Desktop\samushao\Vakhtangi\PhysicalPersonsApp\Business Layer\obj\Debug\net8.0\ref\Business Layer.dll

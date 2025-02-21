@@ -1,0 +1,173 @@
+﻿@model PhysicalPersonsApp.ViewModel.DetailsViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+@{
+    var person = Model?.Person;
+}
+
+@if (Model == null || person == null)
+{
+    <h1 class="text-danger text-center">Details Not Found</h1>
+}
+else
+{
+    <div class="container mt-4">
+
+        <div class="row justify-content-center">
+            <div class="col-md-4 text-center">
+                <img src="@person.ImagePath" class="img-fluid rounded-circle" alt="Person Image" />
+                <h2 class="mt-2">@person.Name @person.Surname</h2>
+                <div class="row justify-content-center" style="margin:5px;">
+                    <form asp-action="UpdateDetails" method="post" enctype="multipart/form-data">
+                        <input type="text" name="Name" placeholder="Change Name"/>
+                        <input type="text" name="Surname" placeholder="Change Surname"/>
+                        <input type="hidden" name="Id" value="@Model.Person.Id"/>
+                        <div style="margin:5px;border:groove;border-block-color:black;">
+                            <label>Update Image</label>
+                            <input type="file" name="Image"/>
+                        </div>
+                        <button type="submit" class="btn btn-primary">update</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row mt-4">
+            <div class="col-md-12">
+                <h3>Personal Information</h3>
+                <table class="table table-bordered">
+                    <tbody>
+                        <tr>
+                            <th>Private Id</th>
+                            <td>@person.PrivateId</td>
+                        </tr>
+                        <tr>
+                            <th>Gender</th>
+                            <td>@person.Gender</td>
+                        </tr>
+                        <tr>
+                            <th>Birth Date</th>
+                            <td>@person.BirthDate</td>
+                        </tr>
+                        <tr>
+                            <th>City</th>
+                            <td>@person.City</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+        <div class="row mt-4">
+            <div>
+                <form asp-action="UpdateDetails" method="post">
+                    <input type="text" name="RelatedPersons.RelationType" placeholder="Relation Type"/>
+                    <input type="text" name="RelatedPersons.PersonName" placeholder="Name"/>
+                    <input type="text" name="RelatedPersons.PersonSurname" placeholder="Surname"/>
+                    <input type="hidden" name="Id" value="@Model.Person.Id" />
+                    <input type="hidden" name="RelatedPersonId" value="@Model.Person.RelatedPersonsId"/>
+                    <button type="submit" class="btn btn-primary">Add Related Person</button>
+                </form>
+            </div>
+            <div class="col-md-12">
+                <h3>Related Persons</h3>
+                @if (!Model.Related.Any())
+                {
+                    <p>No related persons added.</p>
+                }
+                else
+                {
+                    <ul class="list-group">
+                        @if(Model.Related!=null){
+                        @foreach (var list in Model.Related)
+                        {
+                            <li class="list-group-item">
+                                    <strong>@list.PersonName @list.PersonSurname</strong>
+                                    @list.RelationType
+                                    <div style="position:center;margin-left:20px;">
+                                        <form asp-action="DeleteRelatedPerson" method="post">
+                                            <input type="hidden" name="personId" value="@Model.Person.Id"/>
+                                            <input type="hidden" name="relatedPersonId" value="@list.Id"/>
+                                            <button type="submit" class="btn btn-danger">Delete</button>
+                                        </form>
+                                    </div>
+                            </li>
+
+                            }  
+                            }
+                        else
+                        {
+                            <li><p>Person does not have related persons added.</p></li>
+                        }
+                    </ul>
+                }
+            </div>
+        </div>
+        <div>
+            <h1>Relational Statistics</h1>
+            <ul>
+               
+                    <li>
+                    @{
+                        foreach (var list in Model.Statistics)
+                    {
+                        if(list!=null){
+                        <strong>@list.RelationType :</strong>
+                         @list.Amount
+                          }
+                          else{
+                              <strong>________</strong>
+                          }
+                    }
+                    }
+                    </li>
+                
+            </ul>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-12">
+                <h3>Phone Number(s)</h3>
+                @if (!Model.PhoneNumbers.Any())
+                {
+                    <p>No phone numbers added.</p>
+                }
+                else
+                {
+                    <ul class="list-group">
+                        @foreach (var list in Model.PhoneNumbers)
+                        {
+                            <li class="list-group-item">
+                                @if (list.Number != null)
+                                {
+                                    <strong>@list.Number</strong>
+                                    @list.PhoneType
+                               }
+                                else
+                                {
+                                    <p>Person does not have phone numbers added.</p>
+                                }
+                            </li>
+                        }
+                    </ul>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center" style="margin:5px;">
+       <form asp-action="DeletePerson" class="mr-2">
+          <input type="hidden" name="personId" value="@person.Id" />
+          <button type="submit" class="btn btn-danger" style="border-radius:5px;">Delete</button>
+       </form>
+    </div>
+}
+<div class="row mt-4">
+    <div class="col-md-12 text-center">
+        <form asp-action="Index">
+            <button type="submit" class="btn btn-primary">Back to Main Page</button>
+        </form>
+    </div>
+</div>

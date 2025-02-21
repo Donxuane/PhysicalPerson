@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\shared layer\\customattributes\\ididentifierattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|solutionrelative:shared layer\\customattributes\\ididentifierattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\customactionfilter\\checkrequestfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\customactionfilter\\checkrequestfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\custommiddleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\custommiddleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\shared layer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|solutionrelative:shared layer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\viewmodel\\addviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\viewmodel\\addviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\viewmodel\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\viewmodel\\detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\business layer\\servicerepository\\personservices\\servicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\servicerepository\\personservices\\servicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\dbsetup\\unitofworkrepo\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\dbsetup\\unitofworkrepo\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\business layer\\servicerepository\\personservices\\iservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\servicerepository\\personservices\\iservicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\repositoryimplementation\\phonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryimplementation\\phonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\repositoryimplementation\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryimplementation\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\igeneralrepository\\ipersonmodel\\ipersonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\igeneralrepository\\ipersonmodel\\ipersonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\igeneralrepository\\ipersonmodel\\iupdatepersonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\igeneralrepository\\ipersonmodel\\iupdatepersonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\igeneralrepository\\ipersonmodel\\igetpersonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\igeneralrepository\\ipersonmodel\\igetpersonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873EEB49-7593-4C6E-A514-9D665773B968}|UnitTests\\UnitTests.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873EEB49-7593-4C6E-A514-9D665773B968}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\viewmodel\\insdexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\viewmodel\\insdexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\repositoryimplementation\\relatedpersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryimplementation\\relatedpersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\views\\home\\addperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\views\\home\\addperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\physicalpersonsapp\\viewmodel\\updatedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B777FC5-8865-471F-9576-C7984E95F68A}|PhysicalPersonsApp\\PhysicalPersonsApp.csproj|solutionrelative:physicalpersonsapp\\viewmodel\\updatedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\migrations\\20250116064018_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250116064018_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\shared layer\\models\\additionalmodels\\relatedpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|solutionrelative:shared layer\\models\\additionalmodels\\relatedpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\repositoryimplementation\\cityreferancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryimplementation\\cityreferancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\business layer\\servicerepository\\storageservice\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\servicerepository\\storageservice\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\igeneralrepository\\iphonenumberrepo\\iphonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\igeneralrepository\\iphonenumberrepo\\iphonenumberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\dbsetup\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\dbsetup\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\business layer\\servicerepository\\storageservice\\iuploadimge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\servicerepository\\storageservice\\iuploadimge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\business layer\\servicerepository\\errorlogingservice\\ifilelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\servicerepository\\errorlogingservice\\ifilelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\business layer\\servicerepository\\errorlogingservice\\filelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AA4845-F789-4CC4-92F6-B736731B3E3D}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\servicerepository\\errorlogingservice\\filelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\igeneralrepository\\irelatedpersonsrepo\\irelatedpersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\igeneralrepository\\irelatedpersonsrepo\\irelatedpersonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\shared layer\\models\\additionalmodels\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|solutionrelative:shared layer\\models\\additionalmodels\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\shared layer\\models\\additionalmodels\\relatedpersonstypestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|solutionrelative:shared layer\\models\\additionalmodels\\relatedpersonstypestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\dal\\igeneralrepository\\icityreferancerepository\\icityaddrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4743C001-AD00-46CB-B1F9-C43138F2030F}|DAL\\DAL.csproj|solutionrelative:dal\\igeneralrepository\\icityreferancerepository\\icityaddrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|c:\\users\\vaxtangi\\desktop\\samushao\\vakhtangi\\physicalpersonsapp\\shared layer\\models\\additionalmodels\\cityreferance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2E03F0-A397-4D72-8222-B5C8B8461F9D}|Shared Layer\\Shared Layer.csproj|solutionrelative:shared layer\\models\\additionalmodels\\cityreferance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\PersonServices\\ServiceRepo.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ServiceRepository\\PersonServices\\ServiceRepo.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\PersonServices\\ServiceRepo.cs",
+              "RelativeToolTip": "Business Layer\\ServiceRepository\\PersonServices\\ServiceRepo.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:21:12.909Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PhysicalPersonsApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-15T10:20:58.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\CustomMiddleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\CustomMiddleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\CustomMiddleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\CustomMiddleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:04:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Shared Layer\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Shared Layer\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:04:25.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\DBSetup\\UnitOfWorkRepo\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL\\DBSetup\\UnitOfWorkRepo\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\DBSetup\\UnitOfWorkRepo\\UnitOfWork.cs",
+              "RelativeToolTip": "DAL\\DBSetup\\UnitOfWorkRepo\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:57:27.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAEIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:33:50.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Program.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Program.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:46:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdIdentifierAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\CustomAttributes\\IdIdentifierAttribute.cs",
+              "RelativeDocumentMoniker": "Shared Layer\\CustomAttributes\\IdIdentifierAttribute.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\CustomAttributes\\IdIdentifierAttribute.cs",
+              "RelativeToolTip": "Shared Layer\\CustomAttributes\\IdIdentifierAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:06:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckRequestFilter.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\CustomActionFilter\\CheckRequestFilter.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\CustomActionFilter\\CheckRequestFilter.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\CustomActionFilter\\CheckRequestFilter.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\CustomActionFilter\\CheckRequestFilter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:28:12.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhoneNumberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\PhoneNumberRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryImplementation\\PhoneNumberRepository.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\PhoneNumberRepository.cs",
+              "RelativeToolTip": "DAL\\RepositoryImplementation\\PhoneNumberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:48:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\DetailsViewModel.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\ViewModel\\DetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\DetailsViewModel.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\ViewModel\\DetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:01:29.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\AddViewModels.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\ViewModel\\AddViewModels.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\AddViewModels.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\ViewModel\\AddViewModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:03:28.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryImplementation\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\PersonRepository.cs",
+              "RelativeToolTip": "DAL\\RepositoryImplementation\\PersonRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:58:55.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPersonModel\\IPersonModel.cs",
+              "RelativeDocumentMoniker": "DAL\\IGeneralRepository\\IPersonModel\\IPersonModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPersonModel\\IPersonModel.cs",
+              "RelativeToolTip": "DAL\\IGeneralRepository\\IPersonModel\\IPersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:05:48.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUpdatePersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPersonModel\\IUpdatePersonModel.cs",
+              "RelativeDocumentMoniker": "DAL\\IGeneralRepository\\IPersonModel\\IUpdatePersonModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPersonModel\\IUpdatePersonModel.cs",
+              "RelativeToolTip": "DAL\\IGeneralRepository\\IPersonModel\\IUpdatePersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:06:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\PersonServices\\IServiceRepo.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ServiceRepository\\PersonServices\\IServiceRepo.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\PersonServices\\IServiceRepo.cs",
+              "RelativeToolTip": "Business Layer\\ServiceRepository\\PersonServices\\IServiceRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:11:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGetPersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPersonModel\\IGetPersonModel.cs",
+              "RelativeDocumentMoniker": "DAL\\IGeneralRepository\\IPersonModel\\IGetPersonModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPersonModel\\IGetPersonModel.cs",
+              "RelativeToolTip": "DAL\\IGeneralRepository\\IPersonModel\\IGetPersonModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:07:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhysicalPersonsApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T11:56:03.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InsdexModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\InsdexModel.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\ViewModel\\InsdexModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\InsdexModel.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\ViewModel\\InsdexModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:02:19.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAAABAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:45:11.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RelatedPersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\RelatedPersonsRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryImplementation\\RelatedPersonsRepository.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\RelatedPersonsRepository.cs",
+              "RelativeToolTip": "DAL\\RepositoryImplementation\\RelatedPersonsRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:55:19.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\UpdateDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\ViewModel\\UpdateDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\ViewModel\\UpdateDetailsViewModel.cs",
+              "RelativeToolTip": "PhysicalPersonsApp\\ViewModel\\UpdateDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:24:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddPerson.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Views\\Home\\AddPerson.cshtml",
+              "RelativeDocumentMoniker": "PhysicalPersonsApp\\Views\\Home\\AddPerson.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\Views\\Home\\AddPerson.cshtml",
+              "RelativeToolTip": "PhysicalPersonsApp\\Views\\Home\\AddPerson.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T16:50:25.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RelatedPersons.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\RelatedPersons.cs",
+              "RelativeDocumentMoniker": "Shared Layer\\Models\\AdditionalModels\\RelatedPersons.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\RelatedPersons.cs",
+              "RelativeToolTip": "Shared Layer\\Models\\AdditionalModels\\RelatedPersons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:58:36.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250116064018_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\Migrations\\20250116064018_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250116064018_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\Migrations\\20250116064018_InitialCreate.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250116064018_InitialCreate.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:40:34.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CityReferanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\CityReferanceRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryImplementation\\CityReferanceRepository.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\RepositoryImplementation\\CityReferanceRepository.cs",
+              "RelativeToolTip": "DAL\\RepositoryImplementation\\CityReferanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:20:31.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UploadImage.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\StorageService\\UploadImage.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ServiceRepository\\StorageService\\UploadImage.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\StorageService\\UploadImage.cs",
+              "RelativeToolTip": "Business Layer\\ServiceRepository\\StorageService\\UploadImage.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIBJwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:20:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPhoneNumberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPhoneNumberRepo\\IPhoneNumberRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IGeneralRepository\\IPhoneNumberRepo\\IPhoneNumberRepository.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IPhoneNumberRepo\\IPhoneNumberRepository.cs",
+              "RelativeToolTip": "DAL\\IGeneralRepository\\IPhoneNumberRepo\\IPhoneNumberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:07:40.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\DBSetup\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "DAL\\DBSetup\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\DBSetup\\ConnectionString.cs",
+              "RelativeToolTip": "DAL\\DBSetup\\ConnectionString.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:49:23.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUploadImge.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\StorageService\\IUploadImge.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ServiceRepository\\StorageService\\IUploadImge.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\StorageService\\IUploadImge.cs",
+              "RelativeToolTip": "Business Layer\\ServiceRepository\\StorageService\\IUploadImge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:57:59.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFileLogService.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\ErrorLogingService\\IFileLogService.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ServiceRepository\\ErrorLogingService\\IFileLogService.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\ErrorLogingService\\IFileLogService.cs",
+              "RelativeToolTip": "Business Layer\\ServiceRepository\\ErrorLogingService\\IFileLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:44:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileLogService.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\ErrorLogingService\\FileLogService.cs",
+              "RelativeDocumentMoniker": "Business Layer\\ServiceRepository\\ErrorLogingService\\FileLogService.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Business Layer\\ServiceRepository\\ErrorLogingService\\FileLogService.cs",
+              "RelativeToolTip": "Business Layer\\ServiceRepository\\ErrorLogingService\\FileLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:45:39.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRelatedPersonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IRelatedPersonsRepo\\IRelatedPersonsRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IGeneralRepository\\IRelatedPersonsRepo\\IRelatedPersonsRepository.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\IRelatedPersonsRepo\\IRelatedPersonsRepository.cs",
+              "RelativeToolTip": "DAL\\IGeneralRepository\\IRelatedPersonsRepo\\IRelatedPersonsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:55:03.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "Shared Layer\\Models\\AdditionalModels\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\PhoneNumber.cs",
+              "RelativeToolTip": "Shared Layer\\Models\\AdditionalModels\\PhoneNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:58:49.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RelatedPersonsTypeStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\RelatedPersonsTypeStatistics.cs",
+              "RelativeDocumentMoniker": "Shared Layer\\Models\\AdditionalModels\\RelatedPersonsTypeStatistics.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\RelatedPersonsTypeStatistics.cs",
+              "RelativeToolTip": "Shared Layer\\Models\\AdditionalModels\\RelatedPersonsTypeStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:37:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICItyAddRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\ICityReferanceRepository\\ICItyAddRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\IGeneralRepository\\ICityReferanceRepository\\ICItyAddRepo.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\DAL\\IGeneralRepository\\ICityReferanceRepository\\ICItyAddRepo.cs",
+              "RelativeToolTip": "DAL\\IGeneralRepository\\ICityReferanceRepository\\ICItyAddRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:08:50.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CityReferance.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\CityReferance.cs",
+              "RelativeDocumentMoniker": "Shared Layer\\Models\\AdditionalModels\\CityReferance.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\Shared Layer\\Models\\AdditionalModels\\CityReferance.cs",
+              "RelativeToolTip": "Shared Layer\\Models\\AdditionalModels\\CityReferance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:58:55.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

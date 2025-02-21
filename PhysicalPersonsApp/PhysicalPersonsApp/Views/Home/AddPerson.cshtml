@@ -1,0 +1,143 @@
+﻿@model PhysicalPersonsApp.ViewModel.AddViewModels
+
+@{
+    ViewData["Title"] = "AddPerson";
+
+}
+
+<h1>Add Person</h1>
+
+<h4>Person Model</h4>
+<hr />
+<div>
+    <div class="justify-content-center">
+        <form asp-action="AddPersonDb" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="person.Name" class="control-label"></label>
+                <input asp-for="person.Name" class="form-control" />
+                <span asp-validation-for="person.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="person.Surname" class="control-label"></label>
+                <input asp-for="person.Surname" class="form-control" />
+                <span asp-validation-for="person.Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="person.Gender" class="control-label"></label>
+                <select asp-for="person.Gender" class="form-control">
+                    <option value="">Select Gender</option>
+                    @{
+                        foreach(var gender in Model.Gender){
+                            <option value="@gender">@gender</option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="person.PrivateId" class="control-label"></label>
+                <input asp-for="person.PrivateId" class="form-control" />
+                <span asp-validation-for="person.PrivateId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="person.BirthDate" class="control-label"></label>
+                <input asp-for="person.BirthDate" class="form-control" />
+                <span asp-validation-for="person.BirthDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="person.City" class="control-label"></label>
+                <input asp-for="person.City" class="form-control" />
+                <span asp-validation-for="person.City" class="text-danger"></span>
+            </div>
+            <div>
+                
+                <div class="form-group">
+                    <label for="addPhone" class="control-label">Add Phone Number (Optional)</label>
+                    <select id="addPhone" class="form-control" onchange="toggleSection('relate', this.value === 'Yes')">
+                        <option value="No">^</option>
+                        <option value="Yes">Add Number</option>
+                    </select>
+                </div>
+
+                <div id="relate" class="form-group" style="display: none; margin-left:20px;">
+                    <div class="form-group">
+                        <label for="phoneType" class="control-label">Phone Type</label>
+                        <select asp-for="Phone.PhoneType" class="form-control" id="phoneType">
+                            <option value="">Select Phone Type</option>
+                            <option value="Mobile">Mobile</option>
+                            <option value="Home">Home</option>
+                            <option value="Work">Work</option>
+                        </select>
+                        <span asp-validation-for="Phone.PhoneType" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Phone.Number" class="control-label">Phone Number</label>
+                        <input asp-for="Phone.Number" class="form-control" />
+                        <span asp-validation-for="Phone.Number" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group" style="margin: 20px;">
+                <label>Upload Image</label>
+                <input type="file" asp-for="file" />
+                <span asp-validation-for="file" class="text-danger" style="margin-top: 10px; display: block;"></span>
+            </div>
+
+            <div>
+           
+            <div class="form-group">
+                <label for="relatedPerson" class="control-label">Add Related Person (Optional)</label>
+                <select id="relatedPerson" class="form-control" onchange="toggleSection('related', this.value === 'ADD')">
+                    <option value="Noo">^</option>
+                    <option value="ADD">Add Related Person</option>
+                </select>
+            </div>
+
+            <div id="related" class="form-group" style="display: none; margin-left:20px;">
+                <div class="form-group">
+                    <label asp-for="Related.PersonName" class="control-label">Person Name</label>
+                    <input asp-for="Related.PersonName" class="form-control" />
+                    <span asp-validation-for="Related.PersonName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Related.PersonSurname" class="control-label">Person Surname</label>
+                    <input asp-for="Related.PersonSurname" class="form-control" />
+                    <span asp-validation-for="Related.PersonSurname" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Related.RelationType" class="control-label">Relation Type</label>
+                    <input asp-for="Related.RelationType" class="form-control" />
+                    <span asp-validation-for="Related.RelationType" class="text-danger"></span>
+                </div>
+            </div>
+
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="ADD PERSON" class="btn btn-primary" style="margin:10px;"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <form asp-action="Index">
+        <button type="submit" class="btn btn-primary" style="margin-left:5px;">Back to Home </button>
+    </form>
+</div>
+<script>
+
+    function toggleSection(sectionId, isVisible) {
+        const section = document.getElementById(sectionId);
+        section.style.display = isVisible ? 'block' : 'none';
+    }
+</script>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

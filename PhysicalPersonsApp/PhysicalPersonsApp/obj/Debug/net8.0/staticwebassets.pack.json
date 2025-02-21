@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PhysicalPersonsApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PhysicalPersonsApp.e8qw1loci7.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\04ff6eb5-ab98-49f9-97a5-8b6bf4d00b9c.JPG",
+      "PackagePath": "staticwebassets\\Gallery\\04ff6eb5-ab98-49f9-97a5-8b6bf4d00b9c.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\22a0a8ab-84af-460e-85e3-f7a6df43e470.jpeg",
+      "PackagePath": "staticwebassets\\Gallery\\22a0a8ab-84af-460e-85e3-f7a6df43e470.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\488bd676-b4e2-440f-b6d7-e85ca7f69a36.JPG",
+      "PackagePath": "staticwebassets\\Gallery\\488bd676-b4e2-440f-b6d7-e85ca7f69a36.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\499a2ace-5554-4fa2-b850-4ad1fd3285e8.png",
+      "PackagePath": "staticwebassets\\Gallery\\499a2ace-5554-4fa2-b850-4ad1fd3285e8.png"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\4e366e7f-ced8-40e6-8764-f1bb39e57c9f.jpg",
+      "PackagePath": "staticwebassets\\Gallery\\4e366e7f-ced8-40e6-8764-f1bb39e57c9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\50a5ef74-85fd-4c4b-8a5e-2cfb004eb2ac.JPG",
+      "PackagePath": "staticwebassets\\Gallery\\50a5ef74-85fd-4c4b-8a5e-2cfb004eb2ac.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\5bfa2137-4167-404f-935d-148bd8562cc0.JPG",
+      "PackagePath": "staticwebassets\\Gallery\\5bfa2137-4167-404f-935d-148bd8562cc0.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\82769535-479d-49e8-b701-11442bdea458.jpg",
+      "PackagePath": "staticwebassets\\Gallery\\82769535-479d-49e8-b701-11442bdea458.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\bab2e3a6-faf5-433a-9950-2b03cf74582c.jpg",
+      "PackagePath": "staticwebassets\\Gallery\\bab2e3a6-faf5-433a-9950-2b03cf74582c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\cd62a1fb-d55f-409e-8267-b9857198ff77.JPG",
+      "PackagePath": "staticwebassets\\Gallery\\cd62a1fb-d55f-409e-8267-b9857198ff77.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\Gallery\\d110b3f0-5efe-442e-92d7-fe2193bbf221.jpg",
+      "PackagePath": "staticwebassets\\Gallery\\d110b3f0-5efe-442e-92d7-fe2193bbf221.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\LogService\\Error.txt",
+      "PackagePath": "staticwebassets\\LogService\\Error.txt"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vaxtangi\\Desktop\\samushao\\Vakhtangi\\PhysicalPersonsApp\\PhysicalPersonsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhysicalPersonsApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhysicalPersonsApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PhysicalPersonsApp.props",
+      "PackagePath": "build\\PhysicalPersonsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PhysicalPersonsApp.props",
+      "PackagePath": "buildMultiTargeting\\PhysicalPersonsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PhysicalPersonsApp.props",
+      "PackagePath": "buildTransitive\\PhysicalPersonsApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
